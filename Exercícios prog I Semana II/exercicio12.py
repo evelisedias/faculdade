@@ -1,0 +1,1 @@
+#O comando FOR geralmente é utilizado quando estamos trabalhando com listas, se for um lista muito grande agregamos o range; Já o while utilizamos com programação simples, repetição básica.
